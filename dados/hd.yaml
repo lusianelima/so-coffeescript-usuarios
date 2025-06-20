@@ -1,0 +1,16 @@
+- { arquivo: receita.txt, usuario: cassiane, tamanho: 2 }
+- { arquivo: estudo.docx, usuario: cassiane, tamanho: 5 }
+- { arquivo: relatorio.pdf, usuario: joana, tamanho: 3 }
+- { arquivo: foto_viagem.jpg, usuario: antonieta, tamanho: 4 }
+- { arquivo: contas.xlsx, usuario: cassiane, tamanho: 6 }
+- { arquivo: projeto.zip, usuario: joana, tamanho: 7 }
+- { arquivo: bolo.png, usuario: antonieta, tamanho: 2 }
+- { arquivo: musica.mp3, usuario: antonieta, tamanho: 8 }
+- { arquivo: video.mp4, usuario: joana, tamanho: 10 }
+- { arquivo: livro.epub, usuario: cassiane, tamanho: 1 }
+- { arquivo: apresentacao.pptx, usuario: antonieta, tamanho: 3 }
+- { arquivo: backup.tar.gz, usuario: joana, tamanho: 15 }
+- { arquivo: planilha.xls, usuario: cassiane, tamanho: 4 }
+- { arquivo: desenho.svg, usuario: joana, tamanho: 2 }
+- { arquivo: documento.txt, usuario: joana, tamanho: 1 }
+- { arquivo: imagem.png, usuario: lusiane, tamanho: 5 }

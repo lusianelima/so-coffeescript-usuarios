@@ -1,0 +1,27 @@
+Instruções iniciais:
+
+1) Instalar Node e NPM
+
+    no Linux: sudo apt install nodejs npm
+
+
+2) Instalar CoffeeScript
+
+    no Linux: sudo npm install --global coffeescript
+
+
+3) Instalar PNPM
+
+    no Linux: sudo npm install --global pnpm
+
+
+4) Criar um diretório "trabalho", entrar nele e instalar bibliotecas
+
+    pnpm add readline-sync fs-jetpack yaml md5 sha.js picocolors dayjs python-struct play-sound
+
+
+5) Executar arquivo de teste pra ver se funcionou
+
+    coffee teste.coffee
+
+
