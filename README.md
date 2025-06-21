@@ -8,6 +8,7 @@ Desenvolver 8 programas com foco em manipulação de arquivos, entrada e saída 
 
 ## 👤 Autora
 Lusiane Lima
+
 Bacharelado em Ciência da Computação
 
 
